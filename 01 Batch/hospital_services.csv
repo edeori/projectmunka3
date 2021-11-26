@@ -1,0 +1,204 @@
+id,service_name,specialization
+1,Lezeres visszermutet egyoldali,ersebeszet
+2,Lezeres visszermutet ketoldali,ersebeszet
+3,Visszermutet,ersebeszet
+4,FESS mutet (Orrpolip m?mutet),ful-orr-gegeszet
+5,Horkolasgatlo mutet (lezeres) (LAUP),ful-orr-gegeszet
+6,Horkolasgatlo mutet altatasban (RAUPP),ful-orr-gegeszet
+7,Kombinalt mutet: alvasendoscopia/RAUPP/FESS/orrsoveny/orrkagylo mutet altatasban,ful-orr-gegeszet
+8,Kombinalt mutet: Alvasendoscopia/RAUPP/orrkagylo mutet altatasban,ful-orr-gegeszet
+9,Kombinalt mutet: alvasendoscopia/RAUPP/orrsoveny mutet altatasban,ful-orr-gegeszet
+10,Kombinalt mutet: alvasendoscopia/RAUPP/orrsoveny/orrkagylo mutet altatasban,ful-orr-gegeszet
+11,Orrkagylo kisebbito mutet (Mucotomia) ,ful-orr-gegeszet
+12,Orrmandula mutet,ful-orr-gegeszet
+13,Orrmandula mutet ventillacios tubus beulmutetessel,ful-orr-gegeszet
+14,Orrsoveny mutet altatasban,ful-orr-gegeszet
+15,Pajzsmirigy mutet (egyoldali),ful-orr-gegeszet
+16,Pajzsmirigy mutet (ketoldali),ful-orr-gegeszet
+17,Torokmandula mutet (tonsillectomia),ful-orr-gegeszet
+18,Torokmandula mutet koblatorral,ful-orr-gegeszet
+19,agyeki (lumbalis) gerinccsatorna szukulet mutet,gerincsebeszet
+20,agyeki (lumbalis) porckorongserv mutet,gerincsebeszet
+21,Csigolyabiopsia,gerincsebeszet
+22,Lezeres porckoronserv mutet,gerincsebeszet
+23,Lumbalis fuzio OLIF mutet,gerincsebeszet
+24,Lumbalis fuzio TLIF Minimal invaziv mutet,gerincsebeszet
+25,Lumbalis fuzio TLIF nyilt mutet,gerincsebeszet
+26,Nyaki csigolyatestpotlas,gerincsebeszet
+27,Nyaki hatso fixatio,gerincsebeszet
+28,Nyaki laminoplasztika,gerincsebeszet
+29,Nyaki porckorongserv mutet,gerincsebeszet
+30,Vertebroplasztika altatasban,gerincsebeszet
+31,Vertebroplasztika helyi erzestelenitesben,gerincsebeszet
+32,Bartholin-ciszta eltavolitas,nogyogyaszat
+33,Diagnosztikus hiszteroszkopia,nogyogyaszat
+34,Diagnosztikus laparoszkopia,nogyogyaszat
+35,Hiszteroszkopos mioma eltavolitas (Myoma Enucleatio),nogyogyaszat
+36,Huvelyplasztika,nogyogyaszat
+37,Laparoszkopos mioma eltavolitas,nogyogyaszat
+38,Laparoszkopos petefeszek ciszta eltavolitas,nogyogyaszat
+39,Meheltavolitas (Hysterectomia) - laparoszkopos,nogyogyaszat
+40,Meheltavolitas (Hysterectomia) huvelyen keresztul,nogyogyaszat
+41,Mehkaparas (Fractionalt abrasio),nogyogyaszat
+42,Mehnyakmutet (Conisatio),nogyogyaszat
+43,Petevezetek atjarhatosagi vizsgalat (HyCoSy),nogyogyaszat
+44,Petevezetek eltavolitas (salpingectomia),nogyogyaszat
+45,Artroszkopos meniscus mutet,ortopedi
+46,Artroszkopos shaveres porc mutet,ortopedi
+47,Artroszkopos szabadtest eltavolitas,ortopedi
+48,Artroszkopos terdszalag potlas,ortopedi
+49,Artroszkopos vallmutet,ortopedi
+50,Butyok mutet,ortopedi
+51,Csipoprotezis beulmutetes*,ortopedi
+52,Dupuytren-kontraktura (tenyerzsugor) mutet,ortopedi
+53,Ganglion eltavolitas,ortopedi
+54,Kalapacsujj mutet,ortopedi
+55,Kezto alagut szindroma mutet,ortopedi
+56,Konyok alagut szindroma mutet,ortopedi
+57,Lezeres porckoronserv mutet,ortopedi
+58,Pattano ujj mutet,ortopedi
+59,Teljes terdprotezis beulmutetes,ortopedi
+60,Aranyer mutet (hagyomanyos),sebeszet
+61,Borelvaltozasok eltavolitasa (ambulans) ,sebeszet
+62,Borelvaltozasok eltavolitasa (mutoben) ,sebeszet
+63,Dermoid ciszta eltavolitasa,sebeszet
+64,Epeko mutet/laparoszkopos epeholyag eltavolitas,sebeszet
+65,Hasfali serv mutet,sebeszet
+66,Koldokserv mutet,sebeszet
+67,Lagyekserv mutet,sebeszet
+68,Laparoszkopos koldokserv mutet,sebeszet
+69,Laparoszkopos lagyekserv mutet,sebeszet
+70,Longo aranyer mutet,sebeszet
+71,Vegbelpolip mutet,sebeszet
+72,Vegbelsipoly mutet,sebeszet
+73,Ketoldali felso szemhej plasztika,szemeszet
+74,Kisebb fibroma / szemolcs / arpa / cysta / atheroma / xanthelasma eltavolitasa,szemeszet
+75,Kuszohalyog (kuszohartya) mutet,szemeszet
+76,Nagyobb/plasztikat igenylo elvaltozasok eltavolitasa,szemeszet
+77,Szemhej allasi rendellenesseg,szemeszet
+78,Szurkehalyog mutet (egy fokuszu lencsevel)*,szemeszet
+79,Szurkehalyog mutet (multifokalis lencsevel)*,szemeszet
+80,Szurkehalyog mutet (toricus)*,szemeszet
+81,Anti inkontinencia (TOT) mutet + szalag ,urologia
+82,Condyloma mutet,urologia
+83,Fitymafek atmetszes (Frenulotomia),urologia
+84,Here eltavolitas (castratio),urologia
+85,Here visszertagulat mutet (Varicocelectomia),urologia
+86,Here vizserv mutet (Hydrocelectomia),urologia
+87,Hugycsovon keresztuli (transurethralis) hugyvezetek szajadek bemetszes mutet,urologia
+88,Hugycsovon keresztuli hugyholyagdaganat eltavolitasa mutet,urologia
+89,Korulmeteles (Circumcisio),urologia
+90,Laparoszkopos here visszertagulat (varicocele) mutet,urologia
+91,Laparoszkopos vese ciszta mutet,urologia
+92,Microsebeszeti here visszertagulat (varicocele) mutet,urologia
+93,Prosztata biopszia,urologia
+94,DAO (hisztamin intolerancia),Allergia laborvizsgalat
+95,anti-TG/Autoantitest vizsgalat, pajzsmirigy funkcio
+96,anti-TPO/Autoantitest vizsgalat, pajzsmirigy funkcio
+97,TRAK,Autoantitest vizsgalat, pajzsmirigy funkcio
+98,ANA (anti nuklearis antitest) Hep-2,Autoimmun laborvizsgalatok
+99,ANA ELISA,Autoimmun laborvizsgalatok
+100,ANCA (mintazat/titer/MPO es PR-3 meres),Autoimmun laborvizsgalatok
+101,ANCA profil (MPO/PR-3/katepszin/elasztaz/laktoferrin/BPI antitestek),Autoimmun laborvizsgalatok
+102,anti-DNA/DNS elleni antitest,Autoimmun laborvizsgalatok
+103,ASCA IgA,Autoimmun laborvizsgalatok
+104,ASCA IgG,Autoimmun laborvizsgalatok
+105,CCP antitest,Autoimmun laborvizsgalatok
+106,ENA panel,Autoimmun laborvizsgalatok
+107,Reumatoid faktor,Autoimmun laborvizsgalatok
+108,Szoveti transzglutaminaz IgG+IgA,Autoimmun laborvizsgalatok
+109,Szovetspecifikus autoantitestek (AMA/SMA/LKM/PCA/ARA/EAT),Autoimmun laborvizsgalatok
+110,Coliakia genetika,Genetikai laborvizsgalatok
+111,Hemokromatozis genetikai teszt,Genetikai laborvizsgalatok
+112,HLAB27,Genetikai laborvizsgalatok
+113,II. faktor Prothrombin gen mutacio,Genetikai laborvizsgalatok
+114,Laktoz intolerancia genetika,Genetikai laborvizsgalatok
+115,Leiden mutacio,Genetikai laborvizsgalatok
+116,MTHFR C677T genetika,Genetikai laborvizsgalatok
+117,Reticulocyta,Hematologiai laborvizsgalatok, Verkep vizsgalat
+118,Verkep (HTC/Hgb/Fvs/MCV/vvt/thr)/Hematologiai laborvizsgalatok, Verkep vizsgalat
+119,Verkep citratos verbol/Hematologiai laborvizsgalatok, Verkep vizsgalat
+120,vvt sullyedes/Hematologiai laborvizsgalatok, Verkep vizsgalat
+121,17OH-Progeszteron,Hormon laborvizsgalatok
+122,25-OH-calciferol (D-vitamin) meghatarozas,Hormon laborvizsgalatok
+123,Beta-HCG,Hormon laborvizsgalatok
+124,C peptid,Hormon laborvizsgalatok
+125,DHEA-szulfat (DHEA-S) meghatarozasa,Hormon laborvizsgalatok
+126,IGF-1,Hormon laborvizsgalatok
+127,Novekedesi hormon,Hormon laborvizsgalatok
+128,Renin,Hormon laborvizsgalatok
+129,SHBG,Hormon laborvizsgalatok
+130,Tesztoszteron,Hormon laborvizsgalatok
+131,FT3/Hormon laborvizsgalatok, pajzsmirigy funkcio
+132,FT4/Hormon laborvizsgalatok, pajzsmirigy funkcio
+133,Kalcitonin/Hormon laborvizsgalatok, pajzsmirigy funkcio
+134,Parathormon (PTH)/Hormon laborvizsgalatok, pajzsmirigy funkcio
+135,Thyreoglobulin/Hormon laborvizsgalatok, pajzsmirigy funkcio
+136,TSH/Hormon laborvizsgalatok, pajzsmirigy funkcio
+137,Osteocalcin/Hormon vizsgalat, csontanyagcsere
+138,ACTH/Hormon vizsgalat, mellekvese funkcio
+139,Aldoszteron meghatarozasa szerumban/Hormon vizsgalat, mellekvese funkcio
+140,Cortisol/Hormon vizsgalat, mellekvese funkcio
+141,ANCA,Immunologiai laborvizsgalatok
+142,Anti foszfolipidantitestek (kardiolipin, B2GPI),Immunologiai laborvizsgalatok
+143,Beta-2-mikroglobulin,Immunologiai laborvizsgalatok
+144,C3 Komplement 3 faktor,Immunologiai laborvizsgalatok
+145,C4 Komplement 4 faktor,Immunologiai laborvizsgalatok
+146,CH50,Immunologiai laborvizsgalatok
+147,Immunfixacio (paraprotein kimutatas),Immunologiai laborvizsgalatok
+148,Inhalativ (leguti) panel 20 allergenre,Immunologiai laborvizsgalatok
+149,IgA,Immunologiai vizsgalat/allergia vizsgalat
+150,IgE,Immunologiai vizsgalat/allergia vizsgalat
+151,IgG,Immunologiai vizsgalat/allergia vizsgalat
+152,IgM,Immunologiai vizsgalat/allergia vizsgalat
+153,Meh- es darazs mereg allergenspecifikus,Immunologiai vizsgalat/allergia vizsgalat
+154,Tejallergia molekularis (komponens alapu) vizsgalat,Immunologiai vizsgalat/allergia vizsgalat
+155,Borrelia antitestek (IgG/IgM) Western blot,Infekcios szerologia laborvizsgalatok
+156,Borrelia AT meghatarozasa,Infekcios szerologia laborvizsgalatok
+157,Chlamydia pneumoniae antitestek (IgG/IgM/IgA),Infekcios szerologia laborvizsgalatok
+158,Chlamydia trachomatis antimutetstek (IgG/IgM/IgA),Infekcios szerologia laborvizsgalatok
+159,Cytomegalovirus (CMV) antitestek (IgG/IgM),Infekcios szerologia laborvizsgalatok
+160,Echinococcus antitest meghatarozasa,Infekcios szerologia laborvizsgalatok
+161,Epstein-Barr virus antitestek,Infekcios szerologia laborvizsgalatok
+162,Helicobacter pylori AT verbol,Infekcios szerologia laborvizsgalatok
+163,HIV antitest,Infekcios szerologia laborvizsgalatok
+164,HPV kimutatas,Infekcios szerologia laborvizsgalatok
+165,HSV 1 es HSV 2 antitestek (Herpes simplex virus 1 es 2),Infekcios szerologia laborvizsgalatok
+166,Mycoplasma pneumoniae antitestek (IgG/IgM/IgA),Infekcios szerologia laborvizsgalatok
+167,Rubeola vedettseg,Infekcios szerologia laborvizsgalatok
+168,Rubeola virus antitestek (IgG/IgM),Infekcios szerologia laborvizsgalatok
+169,Toxocara antitest,Infekcios szerologia laborvizsgalatok
+170,Toxoplasma antitestek (IgG/IgM),Infekcios szerologia laborvizsgalatok
+171,Treponema pallidum (TPHA es RPR),Infekcios szerologia laborvizsgalatok
+172,Varicella zoster virus antitestek (IgG/IgM),Infekcios szerologia laborvizsgalatok
+173,anti-HBc,Infekcios szerologia/majfunkcio
+174,anti-HBs,Infekcios szerologia/majfunkcio
+175,HBeAG (anti-HBe antitest),Infekcios szerologia/majfunkcio
+176,HBsAG,Infekcios szerologia/majfunkcio
+177,Hepatitis A virus (HAV) antitestek,Infekcios szerologia/majfunkcio
+178,Hepatitis C virus (HCV) antitest,Infekcios szerologia/majfunkcio
+179,Hepatitis E virus (HEV) antitest,Infekcios szerologia/majfunkcio
+180,H2 kilegzesi teszt,Kilegzesi teszt
+181,AFP meghatarozas terhessegben,Klinikai kemiai laborvizsgalatok
+182,Albumin meghatarozasa szerumban,Klinikai kemiai laborvizsgalatok
+183,Alfa-1-antitripszin,Klinikai kemiai laborvizsgalatok
+184,AST,Klinikai kemiai laborvizsgalatok
+185,B12 vitamin,Klinikai kemiai laborvizsgalatok
+186,Calcium (Ca),Klinikai kemiai laborvizsgalatok
+187,Cink (Zn),Klinikai kemiai laborvizsgalatok
+188,CK,Klinikai kemiai laborvizsgalatok
+189,CK-MB meghatarozasa,Klinikai kemiai laborvizsgalatok
+190,CRP,Klinikai kemiai laborvizsgalatok
+191,Ferritin,Klinikai kemiai laborvizsgalatok
+192,Folsav,Klinikai kemiai laborvizsgalatok
+193,Foszfor (P),Klinikai kemiai laborvizsgalatok
+194,HBA1C,Klinikai kemiai laborvizsgalatok
+195,HDL koleszterin,Klinikai kemiai laborvizsgalatok
+196,Homocisztein,Klinikai kemiai laborvizsgalatok
+197,Kalium (K),Klinikai kemiai laborvizsgalatok
+198,Klorid,Klinikai kemiai laborvizsgalatok
+199,Koleszterin,Klinikai kemiai laborvizsgalatok
+200,Kolineszteraz,Klinikai kemiai laborvizsgalatok
+201,LDH,Klinikai kemiai laborvizsgalatok
+202,LDL Koleszterin,Klinikai kemiai laborvizsgalatok
+203,Litium,Klinikai kemiai laborvizsgalatok
